@@ -1,0 +1,58 @@
+.body
+{
+    padding-top: 70px !important;
+}
+.logo-section
+{
+    padding: 3% 0;
+}
+
+@media only screen and (max-device-width: 991.98px)
+{
+    body{
+        padding-top: 0 !important;
+    }
+    .navbar{
+        position:fixed;
+        width:100%;
+        z-index: 1000000;
+        top:0;
+    }
+    
+}
+.custom-nav
+{
+    background-color: #fff!important;
+}
+.footer-c
+{
+    background-color: #565655 !important;
+    height: -10px !important;
+}
+.icon-c
+{
+    color: #D7CEC7;
+}
+@media (max-width: 991.98px) {
+    .navbar-collapse{
+        background-color: #76323F;
+        margin: 0;
+        padding: 0;
+    } }
+    @media (min-width: 991.98px) {
+        .ftco-navbar-light{
+            height: 8%;
+        } }
+.navbar
+{
+    box-shadow: 0px 0px 25px black;
+}
+.active-page
+{
+ color: #D7CEC7 !important;
+ list-style-type: disc;
+ padding-left: 0 !important;
+}
+.icon-c:hover i{
+    color: #76323F;
+}
