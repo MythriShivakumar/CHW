@@ -50,8 +50,8 @@
 }
 .active-page
 {
- color: #D7CEC7 !important;
- list-style-type: disc;
+ color: black !important;
+ text-decoration-line: underline;
  padding-left: 0 !important;
 }
 .icon-c:hover i{
