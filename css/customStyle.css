@@ -34,6 +34,10 @@
     color: #D7CEC7;
 }
 @media (max-width: 991.98px) {
+    .logo-img
+    {
+        padding-top: 5%;
+    }
     .navbar-collapse{
         background-color: #76323F;
         margin: 0;
